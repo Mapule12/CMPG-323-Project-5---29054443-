@@ -1,4 +1,5 @@
 # CMPG-323-Project-5---29054443-
+Repository for Power BI project.
 
 # Power Bi Usage
 The project will comprise of reports and dashboards that will help them visualise and monitor

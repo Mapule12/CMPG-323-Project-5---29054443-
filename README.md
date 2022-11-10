@@ -14,3 +14,4 @@ The Device Registration page contains a timeline visual that the user may use to
 # Connecting to data source
 
 The user will have to use credentials to access the information and be able to view the report and will be required to log in to connect to the data source. 
+(I am not sure if I should do this. The credentials for connecting to the data source are as follows after entering the 29054443@student365.msfed.nwu.ac.za.   username:29054443 password: Mapulemwale&123) 

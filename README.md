@@ -1,7 +1,7 @@
 # CMPG-323-Project-5---29054443-
 Repository for Power BI project.
 
-# Power Bi Usage
+# Report Overview
 The user will be able to see different information based on pages they visit.
 
 High-Level Metrics page provides an overview of the data available. The user may interact with the active and inactive table to se more about the device.
